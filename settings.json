@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Uranium Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Octo!",
         "I like to play Minecraft!"
       ]
     },
