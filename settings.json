@@ -1,14 +1,14 @@
 {
-  "name": "Uranium Bot",
+  "name": "Octo Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "OctoBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "octosmpcuatro.falixsrv.me",
     "port": 62213,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
